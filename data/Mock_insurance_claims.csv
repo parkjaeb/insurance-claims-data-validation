@@ -1,0 +1,101 @@
+Claim_ID,Customer_ID,Date_Submitted,Claim_Amount,Claim_Type,Status,Payout_Amount,Notes
+1001,C021,2025-05-21,13818.16,Health,Approved,12115.7,Claim processed successfully
+1002,C004,2025-02-07,9184.7,Auto,Approved,8081.9,Claim processed successfully
+1003,C001,2025-05-29,7584.78,Health,Denied,0.0,Claim denied due to policy terms
+1004,C024,2025-05-24,2122.08,Life,Pending,,Awaiting review
+1005,C009,2025-05-15,5763.22,Property,Approved,4780.67,Claim processed successfully
+1006,C008,2024-12-19,14787.16,Auto,Pending,,Awaiting review
+1007,C008,2025-05-05,12198.23,Property,Pending,,Awaiting review
+1008,C005,2025-05-12,3972.06,Life,Approved,3723.9,Claim processed successfully
+1009,C024,2025-01-13,3992.64,Auto,Approved,3906.93,Claim processed successfully
+1010,C004,2025-04-16,8726.68,Auto,Pending,,Awaiting review
+1011,C022,2025-02-01,1641.98,Life,Approved,1596.15,Claim processed successfully
+1012,C024,2025-01-11,11112.66,Health,Approved,10858.1,Claim processed successfully
+1013,C029,2025-03-29,12332.34,Life,Approved,11785.82,Claim processed successfully
+1014,C018,2025-03-08,14680.78,Property,Approved,12387.18,Claim processed successfully
+1015,C003,2025-02-08,8224.24,Property,Denied,0.0,Claim denied due to policy terms
+1016,C019,2025-05-13,2323.53,Auto,Approved,2232.5,Claim processed successfully
+1017,C014,2025-05-26,10066.39,Auto,Denied,0.0,Claim denied due to policy terms
+1018,C002,2025-04-22,14229.31,Property,Denied,0.0,Claim denied due to policy terms
+1019,C001,2025-01-26,2894.34,Property,Approved,2718.31,Claim processed successfully
+1020,C003,2025-05-25,8151.27,Health,Pending,,Awaiting review
+1021,C007,2025-02-22,9295.61,Health,Approved,8300.14,Claim processed successfully
+1022,C008,2024-12-15,14483.26,Property,Approved,13201.22,Claim processed successfully
+1023,C017,2025-01-28,13969.25,Health,Approved,13738.67,Claim processed successfully
+1024,C020,2024-12-09,11451.35,Health,Pending,,Awaiting review
+1025,C001,2025-02-19,10503.08,Auto,Approved,8657.39,Claim processed successfully
+1026,C018,2025-03-13,10837.76,Property,Approved,8959.23,Claim processed successfully
+1027,C007,2025-02-07,6285.39,Health,Pending,,Awaiting review
+1028,C023,2024-12-17,10239.46,Life,Denied,0.0,Claim denied due to policy terms
+1029,C021,2025-01-24,5914.6,Life,Approved,5281.32,Claim processed successfully
+1030,C023,2025-04-25,13544.4,Auto,Approved,12274.29,Claim processed successfully
+1031,C018,2025-02-19,7046.55,Property,Denied,0.0,Claim denied due to policy terms
+1032,C014,2025-01-24,4094.63,Property,Approved,3733.42,Claim processed successfully
+1033,C008,2025-05-17,1428.38,Auto,Approved,1233.35,Claim processed successfully
+1034,C015,2025-04-07,805.0,Property,Denied,0.0,Claim denied due to policy terms
+1035,C019,2025-03-12,8531.86,Property,Approved,8114.23,Claim processed successfully
+1036,C009,2025-05-14,9032.38,Auto,Approved,8025.4,Claim processed successfully
+1037,C026,2025-03-28,604.27,Health,Approved,581.91,Claim processed successfully
+1038,C028,2025-01-06,10763.69,Auto,Pending,,Awaiting review
+1039,C001,2025-02-06,1353.67,Auto,Approved,1324.44,Claim processed successfully
+1040,C025,2025-01-05,1477.3,Health,Denied,0.0,Claim denied due to policy terms
+1041,C026,2025-02-02,955.49,Health,Approved,845.94,Claim processed successfully
+1042,C006,2025-04-23,5291.21,Property,Denied,0.0,Claim denied due to policy terms
+1043,C023,2025-04-17,7955.26,Health,Approved,7807.06,Claim processed successfully
+1044,C014,2025-02-06,4537.92,Life,Approved,4035.04,Claim processed successfully
+1045,C011,2025-04-29,7538.51,Life,Approved,6270.77,Claim processed successfully
+1046,C009,2025-03-20,8318.89,Property,Approved,8088.45,Claim processed successfully
+1047,C005,2025-04-29,10988.61,Property,Denied,0.0,Claim denied due to policy terms
+1048,C007,2025-03-13,13294.55,Property,Pending,,Awaiting review
+1049,C025,2025-03-03,8855.07,Life,Denied,0.0,Claim denied due to policy terms
+1050,C011,2025-01-26,4023.46,Auto,Pending,,Awaiting review
+1051,C004,2025-01-05,7358.11,Life,Approved,6548.82,Claim processed successfully
+1052,C003,2025-04-10,6402.37,Health,Approved,6084.53,Claim processed successfully
+1053,C013,2025-04-06,1867.72,Life,Denied,0.0,Claim denied due to policy terms
+1054,C004,2024-12-24,10055.25,Property,Denied,0.0,Claim denied due to policy terms
+1055,C012,2024-12-13,5637.31,Auto,Pending,,Awaiting review
+1056,C028,2024-12-29,6460.98,Health,Pending,,Awaiting review
+1057,C012,2025-01-09,13025.63,Auto,Approved,12608.45,Claim processed successfully
+1058,C020,2025-05-10,1285.48,Health,Denied,0.0,Claim denied due to policy terms
+1059,C009,2025-01-10,9975.1,Property,Approved,8533.32,Claim processed successfully
+1060,C026,2025-05-24,9869.61,Life,Pending,,Awaiting review
+1061,C002,2025-03-19,1378.88,Property,Approved,1317.57,Claim processed successfully
+1062,C024,2025-05-02,11059.1,Health,Pending,,Awaiting review
+1063,C015,2024-12-17,12108.59,Life,Approved,10860.43,Claim processed successfully
+1064,C018,2025-03-09,2084.4,Auto,Approved,1767.26,Claim processed successfully
+1065,C004,2025-03-08,3278.06,Property,Pending,,Awaiting review
+1066,C030,2025-05-02,8276.14,Life,Approved,7349.0,Claim processed successfully
+1067,C013,2025-03-30,2532.64,Auto,Pending,,Awaiting review
+1068,C003,2025-04-15,3160.58,Health,Approved,2979.51,Claim processed successfully
+1069,C018,2025-02-03,7208.11,Auto,Approved,6104.54,Claim processed successfully
+1070,C010,2025-04-21,13180.05,Life,Approved,11429.34,Claim processed successfully
+1071,C027,2024-12-03,1593.08,Auto,Denied,0.0,Claim denied due to policy terms
+1072,C021,2025-05-24,12216.32,Health,Approved,11954.96,Claim processed successfully
+1073,C020,2024-12-30,12911.52,Property,Approved,10537.29,Claim processed successfully
+1074,C029,2025-05-24,1919.68,Property,Pending,,Awaiting review
+1075,C028,2025-04-17,9956.1,Auto,Pending,,Awaiting review
+1076,C012,2025-02-07,8338.53,Life,Approved,6922.37,Claim processed successfully
+1077,C019,2025-05-14,713.99,Property,Approved,625.89,Claim processed successfully
+1078,C007,2025-02-26,1852.31,Auto,Pending,,Awaiting review
+1079,C023,2024-12-29,11426.7,Auto,Approved,9490.57,Claim processed successfully
+1080,C003,2025-02-14,3927.5,Health,Pending,,Awaiting review
+1081,C002,2025-03-22,6393.0,Property,Denied,0.0,Claim denied due to policy terms
+1082,C022,2025-01-10,7479.7,Health,Pending,,Awaiting review
+1083,C008,2025-03-27,13037.43,Auto,Pending,,Awaiting review
+1084,C025,2024-12-01,13585.42,Health,Approved,11449.66,Claim processed successfully
+1085,C010,2025-02-06,2887.24,Life,Pending,,Awaiting review
+1086,C003,2025-04-08,531.25,Life,Pending,,Awaiting review
+1087,C028,2025-01-15,6161.12,Auto,Approved,5440.11,Claim processed successfully
+1088,C008,2025-04-09,13934.51,Health,Denied,0.0,Claim denied due to policy terms
+1089,C028,2024-12-28,11884.38,Property,Approved,10293.97,Claim processed successfully
+1090,C004,2025-05-10,4636.11,Property,Approved,4140.9,Claim processed successfully
+1091,C013,2025-02-15,10600.58,Health,Denied,0.0,Claim denied due to policy terms
+1092,C009,2025-05-13,11092.33,Property,Approved,9012.0,Claim processed successfully
+1093,C015,2025-04-09,11858.74,Life,Approved,11462.4,Claim processed successfully
+1094,C021,2025-05-05,10097.13,Life,Denied,0.0,Claim denied due to policy terms
+1095,C027,2025-01-20,7556.74,Property,Pending,,Awaiting review
+1096,C012,2025-01-09,3253.52,Life,Pending,,Awaiting review
+1097,C006,2025-03-06,3656.66,Auto,Approved,3210.16,Claim processed successfully
+1098,C012,2025-01-11,1348.01,Auto,Denied,0.0,Claim denied due to policy terms
+1099,C012,2025-04-18,11168.19,Life,Approved,10654.0,Claim processed successfully
+1100,C007,2025-04-15,1383.88,Auto,Pending,,Awaiting review

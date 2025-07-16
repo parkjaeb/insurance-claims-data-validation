@@ -1,0 +1,26 @@
+claims_analysis.csv - Notes
+
+Tabs:
+-------
+
+1. Raw Data
+- Source: mock_insurance_claims.csv
+- Used as the base dataset for all analysis
+
+2. Validation Checks
+- Includes formula-based checks for:
+    - Missing payout in approved claims
+    - Payout greater than claim amount
+    - Duplicate claim Includes
+    - Missing customer IDs
+- Uses helper column and COUNTIFS
+
+3. Pivot - Monthly Trend
+- Uses a helper column for YYYY-MM
+- Pivot table to show claims submitted each month
+- Line chart with markers showing volume trend over time
+
+4. Pivot - Claims by Type
+- Pivot table showing average claim amount, payout, and count by type
+- Bar chart visualizing differences across categories
+
